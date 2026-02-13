@@ -190,18 +190,6 @@ section h2 {
     height: 80vh;
 }
 
-#skills .skill-list div {
-    /* background-color: #78290f;
-    color: #e3d5ca;
-    padding: 0.5rem;
-    border-radius: 25%;
-    #skills .skills-list
-     padding: 0.5rem;
-    border-radius: 20%;
-    margin-bottom: 2vh;
-    */
-}
-
 #skills .skill-list .skill {
     display: flex;
     flex-direction: column;
